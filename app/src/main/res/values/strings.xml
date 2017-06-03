@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Travesia</string>
+    <string name="title_inicio">Inicio</string>
+    <string name="title_travesia">Travesia</string>
+    <string name="title_grupo">Grupo</string>
+    <string name="title_activity_maps">Mapa de nueva Travesia</string>
+</resources>
